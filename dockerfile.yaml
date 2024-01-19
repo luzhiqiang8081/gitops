@@ -1,6 +1,2 @@
 FROM nginx
-<<<<<<< HEAD
-RUN echo 'this is a testing for azure Devops!' > /usr/share/nginx/html/index.html
-=======
-RUN echo 'this is a testinf for Azure Devops!!' > /usr/share/nginx/html/index.html
->>>>>>> 0825bc787ffc2132cce25885e8857c4f161a8d73
+RUN echo 'this is a testing for azure Dev11ops!' > /usr/share/nginx/html/index.html
