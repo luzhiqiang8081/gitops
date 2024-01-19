@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo 'this is a testing for azur33e Dev11ops!' > /usr/share/nginx/html/index.html
+RUN echo 'this is a testing for azure Dev11ops' > /usr/share/nginx/html/index.html
