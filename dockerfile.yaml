@@ -1,2 +1,6 @@
 FROM nginx
+<<<<<<< HEAD
 RUN echo 'this is a testing for azure Dev11ops!!' > /usr/share/nginx/html/index.html
+=======
+RUN echo 'this is a testindg for azure Dev11ops' > /usr/share/nginx/html/index.html
+>>>>>>> 044be26eb1c4f4273d9f152652cf276f0c2a5bb8
